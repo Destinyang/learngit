@@ -4,3 +4,4 @@ console.log("李四修改了b.js");
 
 
 console.log("01李四修改了b.js");
+console.log("张三修改了b.js");
